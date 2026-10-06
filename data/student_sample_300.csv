@@ -1,0 +1,301 @@
+Student_ID,Gender,Age,Family_background,Relationship_status,Marital_status,Living_style,Current_semester,CGPA,friend_circle,Health_condition,Cost_without_study,Depression
+1,Female,23,Middle class,Single,Unmarried,Family,4,2.92,No,Good,7400,No
+2,Male,20,Lower Middle class,Single,Unmarried,Bachelor,5,3.1,Yes,Normal,5896,No
+3,Male,20,Middle class,Single,Unmarried,Bachelor,5,3.59,Yes,Abnormal,14815,Yes
+4,Male,23,Middle class,In a Relationship,Unmarried,Family,2,3.0,Yes,Normal,19681,No
+5,Male,22,Middle class,In a Relationship,Unmarried,Family,3,3.0,Yes,Normal,15750,No
+6,Male,23,Middle class,Single,Unmarried,Bachelor,7,3.84,Yes,Critical,15047,Yes
+7,Male,22,Middle class,Single,Married,Bachelor,9,3.0,Yes,Good,12457,No
+8,Female,24,Middle class,Single,Married,Bachelor,5,3.56,Yes,Critical,11232,Yes
+9,Male,20,Middle class,Single,Unmarried,Bachelor,6,3.0,Yes,Abnormal,19681,Yes
+10,Female,21,Middle class,Single,Married,Family,5,3.6,No,Normal,19036,No
+11,Male,23,Middle class,Single,Unmarried,Family,3,2.5,No,Normal,19716,No
+12,Male,20,Middle class,Single,Unmarried,Bachelor,5,3.22,Yes,Good,19493,No
+13,Male,20,Middle class,Single,Married,Bachelor,1,3.0,Yes,Good,16053,No
+14,Male,21,Middle class,Single,Unmarried,Bachelor,3,3.59,Yes,Critical,7600,Yes
+15,Female,21,Rich class,In a Relationship,Unmarried,Family,9,3.3,No,Normal,29635,No
+16,Male,23,Lower Middle class,Complicated,Unmarried,Bachelor,7,3.7,Yes,Good,9500,No
+17,Male,22,Middle class,Single,Married,Bachelor,3,3.59,Yes,Good,15537,No
+18,Female,22,Rich class,In a Relationship,Unmarried,Family,10,3.81,Yes,Normal,5500,No
+19,Male,23,Lower Middle class,In a Relationship,Married,Family,6,3.2,No,Abnormal,7063,No
+20,Female,22,Lower Middle class,Single,Unmarried,Family,2,3.93,Yes,Abnormal,2693,Yes
+21,Male,24,Middle class,Single,Married,Bachelor,9,3.87,No,Normal,13512,No
+22,Female,22,Middle class,Single,Unmarried,Bachelor,9,2.91,Yes,Normal,16849,No
+23,Male,24,Middle class,Single,Unmarried,Bachelor,5,3.56,No,Normal,10301,No
+24,Female,20,Middle class,In a Relationship,Unmarried,Family,3,3.5,No,Abnormal,16753,No
+25,Male,20,Lower Middle class,Single,Married,Bachelor,3,3.5,No,Good,9931,No
+26,Female,24,Lower Middle class,Single,Unmarried,Family,3,3.47,Yes,Abnormal,5600,Yes
+27,Male,22,Rich class,In a Relationship,Unmarried,Family,3,3.89,Yes,Good,23657,No
+28,Male,24,Middle class,Single,Unmarried,Bachelor,5,3.67,No,Abnormal,16238,Yes
+29,Male,21,Middle class,Single,Unmarried,Family,4,3.2,No,Abnormal,17860,Yes
+30,Male,22,Lower Middle class,Single,Unmarried,Bachelor,8,3.75,Yes,Abnormal,2830,Yes
+31,Female,21,Middle class,In a Relationship,Married,Family,2,3.8,Yes,Normal,18251,No
+32,Male,23,Middle class,In a Relationship,Separated,Bachelor,3,3.43,No,Good,19765,No
+33,Female,22,Rich class,In a Relationship,Unmarried,Bachelor,3,3.98,Yes,Good,21820,No
+34,Female,21,Middle class,In a Relationship,Unmarried,Bachelor,5,3.77,No,Good,14512,No
+35,Male,20,Middle class,Single,Unmarried,Bachelor,5,3.7,Yes,Abnormal,11519,Yes
+36,Female,23,Rich class,Single,Married,Bachelor,3,3.66,Yes,Normal,23698,No
+37,Male,23,Middle class,Single,Unmarried,Bachelor,9,3.84,Yes,Critical,15047,Yes
+38,Male,24,Middle class,Single,Unmarried,Bachelor,4,3.67,Yes,Normal,10792,No
+39,Male,21,Lower Middle class,Single,Unmarried,Bachelor,9,3.16,Yes,Normal,9800,No
+40,Female,22,Rich class,In a Relationship,Unmarried,Family,6,2.59,Yes,Good,5500,No
+41,Female,22,Rich class,In a Relationship,Unmarried,Family,6,2.89,Yes,Normal,5500,No
+42,Female,22,Rich class,Single,Unmarried,Family,5,2.92,Yes,Abnormal,27988,Yes
+43,Male,20,Middle class,Single,Married,Bachelor,3,3.74,Yes,Normal,17841,No
+44,Male,19,Middle class,Single,Unmarried,Bachelor,8,3.5,Yes,Normal,14412,No
+45,Male,21,Middle class,Single,Unmarried,Bachelor,0,3.58,Yes,Normal,7500,No
+46,Male,20,Middle class,Single,Unmarried,Bachelor,9,3.44,Yes,Critical,19826,Yes
+47,Male,20,Middle class,Single,Unmarried,Bachelor,3,4.0,Yes,Critical,18397,Yes
+48,Male,21,Lower Middle class,Single,Unmarried,Family,4,3.47,No,Good,3410,No
+49,Female,23,Rich class,In a Relationship,Unmarried,Bachelor,5,3.55,Yes,Critical,26723,Yes
+50,Female,22,Rich class,Single,Married,Bachelor,4,3.56,Yes,Critical,26893,Yes
+51,Male,20,Middle class,Single,Unmarried,Bachelor,5,3.79,Yes,Normal,19668,No
+52,Female,23,Lower Middle class,Single,Unmarried,Bachelor,7,3.58,Yes,Good,9878,No
+53,Female,23,Middle class,Single,Unmarried,Family,3,2.85,No,Critical,9000,Yes
+54,Female,21,Middle class,Single,Married,Bachelor,7,3.2,Yes,Abnormal,19787,No
+55,Female,21,Middle class,In a Relationship,Married,Family,4,3.56,Yes,Good,17373,No
+56,Female,21,Rich class,Single,Married,Bachelor,8,3.6,No,Critical,29856,Yes
+57,Female,21,Middle class,In a Relationship,Unmarried,Family,2,3.77,Yes,Good,13513,No
+58,Female,23,Middle class,Single,Unmarried,Family,5,2.83,No,Abnormal,3400,Yes
+59,Male,20,Middle class,Single,Unmarried,Bachelor,5,3.65,Yes,Normal,11188,No
+60,Female,24,Middle class,Single,Unmarried,Family,7,3.25,Yes,Abnormal,13222,Yes
+61,Female,20,Middle class,In a Relationship,Unmarried,Bachelor,3,4.0,No,Good,16541,No
+62,Female,23,Middle class,Single,Unmarried,Family,7,3.48,No,Normal,4100,Yes
+63,Female,23,Middle class,In a Relationship,Unmarried,Family,3,3.25,Yes,Good,5800,No
+64,Male,23,Middle class,Single,Unmarried,Family,3,2.6,No,Abnormal,10308,Yes
+65,Female,23,Rich class,Single,Unmarried,Bachelor,5,2.89,Yes,Critical,20467,Yes
+66,Female,19,Lower Middle class,Single,Unmarried,Bachelor,8,2.9,Yes,Critical,6318,Yes
+67,Female,24,Middle class,In a Relationship,Unmarried,Bachelor,8,3.0,Yes,Abnormal,17880,No
+68,Female,22,Middle class,In a Relationship,Unmarried,Bachelor,5,3.55,No,Normal,6000,No
+69,Female,23,Middle class,Single,Unmarried,Family,4,3.35,Yes,Good,7700,No
+70,Male,21,Middle class,Single,Married,Bachelor,7,3.56,Yes,Normal,16095,No
+71,Female,23,Rich class,Single,Unmarried,Family,8,2.8,No,Critical,29401,Yes
+72,Female,23,Middle class,Single,Unmarried,Family,5,3.2,Yes,Critical,11232,Yes
+73,Male,22,Middle class,In a Relationship,Unmarried,Bachelor,5,3.5,Yes,Normal,17370,No
+74,Female,23,Middle class,Single,Unmarried,Family,2,3.78,Yes,Abnormal,7700,Yes
+75,Male,18,Rich class,Single,Married,Bachelor,4,3.67,No,Good,21773,No
+76,Female,22,Lower Middle class,Single,Unmarried,Bachelor,7,2.89,No,Critical,5436,Yes
+77,Male,23,Lower Middle class,Single,Unmarried,Bachelor,7,3.94,Yes,Normal,9875,No
+78,Male,20,Lower Middle class,Single,Unmarried,Bachelor,4,3.5,Yes,Normal,6000,No
+79,Male,21,Middle class,Single,Unmarried,Bachelor,2,3.56,Yes,Abnormal,7900,Yes
+80,Female,23,Middle class,Single,Unmarried,Family,7,3.69,Yes,Normal,8300,No
+81,Female,23,Middle class,Single,Unmarried,Family,8,3.87,Yes,Good,4300,No
+82,Male,23,Lower Middle class,In a Relationship,Unmarried,Bachelor,3,3.15,No,Abnormal,4501,No
+83,Female,23,Middle class,In a Relationship,Unmarried,Family,4,3.0,Yes,Abnormal,15636,No
+84,Female,23,Lower Middle class,Complicated,Unmarried,Bachelor,7,3.7,Yes,Good,9500,No
+85,Female,23,Middle class,In a Relationship,Unmarried,Family,4,3.93,No,Abnormal,14174,No
+86,Female,20,Middle class,In a Relationship,Unmarried,Bachelor,7,3.8,Yes,Critical,16866,Yes
+87,Male,20,Middle class,Single,Married,Bachelor,9,3.0,No,Abnormal,19681,No
+88,Male,23,Middle class,Single,Unmarried,Family,3,3.7,No,Normal,14453,No
+89,Male,24,Middle class,Single,Married,Bachelor,5,4.0,Yes,Good,14512,No
+90,Female,23,Middle class,Single,Married,Family,7,3.25,No,Critical,13312,Yes
+91,Female,20,Lower Middle class,Single,Unmarried,Bachelor,3,3.3,No,Critical,6868,Yes
+92,Male,20,Middle class,In a Relationship,Unmarried,Bachelor,2,3.5,No,Normal,15905,No
+93,Male,22,Middle class,Single,Unmarried,Bachelor,4,3.45,Yes,Normal,13830,No
+94,Female,22,Rich class,In a Relationship,Unmarried,Family,11,3.28,Yes,Normal,5500,No
+95,Male,23,Lower Middle class,Single,Unmarried,Bachelor,4,3.45,Yes,Good,2892,No
+96,Female,24,Middle class,In a Relationship,Unmarried,Bachelor,5,3.45,Yes,Abnormal,13576,No
+97,Male,23,Lower Middle class,Complicated,Unmarried,Family,5,2.93,Yes,Good,16000,No
+98,Female,24,Rich class,Single,Unmarried,Bachelor,4,3.18,Yes,Normal,22000,No
+99,Male,23,Middle class,Single,Unmarried,Family,6,3.4,Yes,Critical,12902,Yes
+100,Female,23,Middle class,Single,Unmarried,Family,3,3.59,No,Normal,5200,No
+101,Male,22,Rich class,Single,Unmarried,Bachelor,2,3.89,Yes,Good,20728,No
+102,Female,22,Rich class,In a Relationship,Unmarried,Family,10,2.73,Yes,Abnormal,5500,No
+103,Female,23,Middle class,In a Relationship,Unmarried,Bachelor,6,3.43,No,Abnormal,19036,No
+104,Male,21,Middle class,Single,Unmarried,Bachelor,6,3.26,Yes,Normal,18631,No
+105,Female,19,Middle class,In a Relationship,Unmarried,Bachelor,4,3.3,Yes,Abnormal,13752,No
+106,Male,20,Middle class,Single,Unmarried,Bachelor,1,3.6,Yes,Abnormal,19086,Yes
+107,Female,21,Middle class,In a Relationship,Unmarried,Bachelor,4,3.89,Yes,Normal,10532,No
+108,Female,23,Middle class,Single,Unmarried,Family,8,3.2,No,Abnormal,19684,Yes
+109,Male,21,Middle class,Complicated,Unmarried,Family,4,3.5,Yes,Abnormal,13755,No
+110,Female,20,Lower Middle class,Complicated,Unmarried,Bachelor,2,3.7,Yes,Good,342,No
+111,Male,20,Middle class,Single,Unmarried,Bachelor,5,3.59,Yes,Abnormal,17892,Yes
+112,Female,22,Middle class,In a Relationship,Unmarried,Bachelor,5,2.9,Yes,Critical,18523,Yes
+113,Male,21,Middle class,Single,Unmarried,Bachelor,8,3.46,Yes,Normal,19576,No
+114,Female,23,Middle class,Single,Unmarried,Family,4,2.51,No,Normal,8200,No
+115,Male,24,Lower Middle class,Single,Unmarried,Bachelor,5,3.42,Yes,Good,9980,No
+116,Male,23,Middle class,Single,Unmarried,Bachelor,2,3.75,No,Critical,13222,Yes
+117,Male,20,Middle class,Single,Unmarried,Bachelor,5,3.68,Yes,Abnormal,11267,Yes
+118,Female,20,Lower Middle class,Single,Unmarried,Bachelor,6,3.89,No,Good,9785,No
+119,Female,21,Middle class,In a Relationship,Unmarried,Family,2,3.77,Yes,Good,15768,No
+120,Female,22,Middle class,Single,Unmarried,Bachelor,3,3.82,Yes,Critical,12324,Yes
+121,Female,22,Rich class,In a Relationship,Unmarried,Family,6,3.39,Yes,Good,5500,No
+122,Male,21,Lower Middle class,Single,Married,Bachelor,2,3.9,Yes,Critical,3856,Yes
+123,Female,23,Lower Middle class,In a Relationship,Unmarried,Family,6,3.75,No,Normal,6000,No
+124,Male,20,Middle class,Single,Unmarried,Bachelor,5,3.73,Yes,Normal,15969,No
+125,Female,22,Middle class,Single,Separated,Bachelor,5,3.4,No,Normal,19511,No
+126,Male,20,Middle class,Single,Unmarried,Bachelor,3,3.78,Yes,Abnormal,13906,Yes
+127,Female,22,Rich class,Single,Married,Family,7,4.0,Yes,Normal,11000,No
+128,Male,23,Middle class,In a Relationship,Married,Bachelor,7,3.26,Yes,Normal,8000,No
+129,Male,21,Rich class,Single,Married,Family,5,3.45,Yes,Normal,22386,No
+130,Male,20,Middle class,Single,Unmarried,Bachelor,5,2.61,Yes,Normal,13837,No
+131,Male,20,Middle class,Single,Unmarried,Bachelor,5,3.64,Yes,Critical,17749,Yes
+132,Female,20,Middle class,In a Relationship,Unmarried,Family,3,3.21,Yes,Normal,19143,No
+133,Female,23,Middle class,Single,Unmarried,Bachelor,3,3.8,Yes,Critical,19686,Yes
+134,Male,23,Lower Middle class,Single,Unmarried,Bachelor,7,3.88,Yes,Good,9856,No
+135,Female,19,Lower Middle class,In a Relationship,Unmarried,Family,3,3.7,No,Normal,7303,No
+136,Male,21,Lower Middle class,Single,Unmarried,Family,5,3.9,Yes,Good,5000,No
+137,Female,23,Rich class,Single,Unmarried,Family,8,3.45,No,Normal,26589,No
+138,Male,20,Middle class,Single,Unmarried,Bachelor,5,3.98,Yes,Good,16142,No
+139,Male,20,Middle class,Single,Unmarried,Bachelor,5,3.59,Yes,Abnormal,15852,Yes
+140,Male,24,Rich class,Single,Unmarried,Bachelor,3,3.0,Yes,Critical,29266,Yes
+141,Female,24,Middle class,Single,Married,Bachelor,5,4.0,Yes,Good,14512,No
+142,Male,24,Lower Middle class,Single,Unmarried,Bachelor,9,3.68,Yes,Abnormal,8500,Yes
+143,Female,22,Lower Middle class,Single,Unmarried,Family,6,3.65,Yes,Normal,9874,No
+144,Male,24,Middle class,Single,Unmarried,Bachelor,4,3.9,Yes,Critical,12534,Yes
+145,Female,24,Lower Middle class,Single,Unmarried,Family,7,3.36,No,Good,4500,No
+146,Female,22,Middle class,In a Relationship,Unmarried,Family,8,3.0,Yes,Abnormal,11606,No
+147,Male,20,Middle class,Single,Unmarried,Bachelor,5,3.74,Yes,Abnormal,18361,Yes
+148,Female,22,Middle class,Single,Unmarried,Bachelor,8,3.48,Yes,Normal,13619,No
+149,Female,22,Middle class,Single,Married,Bachelor,4,3.65,Yes,Normal,15805,No
+150,Female,22,Middle class,Single,Unmarried,Bachelor,1,4.0,Yes,Critical,13071,Yes
+151,Male,21,Middle class,Single,Unmarried,Bachelor,2,3.99,No,Abnormal,11597,Yes
+152,Female,20,Middle class,Single,Unmarried,Family,3,3.9,No,Critical,13924,Yes
+153,Male,22,Middle class,In a Relationship,Separated,Family,3,3.54,Yes,Normal,9500,No
+154,Female,20,Middle class,In a Relationship,Unmarried,Bachelor,4,3.13,No,Good,13710,No
+155,Male,20,Lower Middle class,Single,Unmarried,Bachelor,8,3.5,No,Normal,8500,No
+156,Male,20,Middle class,Single,Unmarried,Bachelor,5,3.89,Yes,Normal,14598,No
+157,Female,22,Middle class,Single,Unmarried,Bachelor,5,3.9,No,Normal,15954,No
+158,Male,21,Middle class,In a Relationship,Unmarried,Family,3,3.5,Yes,Normal,8000,No
+159,Female,23,Middle class,In a Relationship,Unmarried,Bachelor,6,3.66,Yes,Abnormal,13561,No
+160,Male,21,Middle class,In a Relationship,Unmarried,Family,4,2.6,Yes,Normal,14687,No
+161,Male,23,Lower Middle class,Single,Unmarried,Family,3,3.0,No,Good,5910,No
+162,Male,23,Middle class,In a Relationship,Unmarried,Bachelor,4,3.67,Yes,Good,18052,No
+163,Female,22,Rich class,In a Relationship,Unmarried,Family,9,3.79,Yes,Normal,5500,No
+164,Male,21,Middle class,Single,Married,Bachelor,8,3.0,Yes,Critical,13127,Yes
+165,Female,22,Middle class,In a Relationship,Unmarried,Family,5,3.4,No,Good,17552,No
+166,Male,20,Middle class,Single,Unmarried,Bachelor,5,3.78,Yes,Normal,17100,No
+167,Female,22,Rich class,In a Relationship,Unmarried,Family,5,2.72,Yes,Good,5500,No
+168,Male,22,Middle class,Single,Separated,Family,2,3.0,Yes,Abnormal,10000,No
+169,Female,23,Middle class,Single,Unmarried,Bachelor,4,3.67,Yes,Critical,15518,Yes
+170,Female,21,Rich class,In a Relationship,Married,Family,6,3.98,Yes,Good,23000,No
+171,Male,21,Lower Middle class,In a Relationship,Unmarried,Bachelor,4,3.3,No,Good,9500,No
+172,Female,22,Middle class,In a Relationship,Unmarried,Family,6,3.45,No,Abnormal,18224,No
+173,Female,22,Middle class,In a Relationship,Unmarried,Bachelor,7,3.21,No,Normal,11317,No
+174,Female,22,Middle class,In a Relationship,Unmarried,Bachelor,8,2.9,Yes,Good,15562,No
+175,Female,22,Rich class,In a Relationship,Unmarried,Family,11,3.36,Yes,Normal,5500,No
+176,Female,21,Rich class,In a Relationship,Unmarried,Family,2,3.56,Yes,Good,26921,No
+177,Male,20,Middle class,Single,Unmarried,Bachelor,5,3.72,Yes,Abnormal,10313,Yes
+178,Female,21,Lower Middle class,In a Relationship,Unmarried,Family,9,3.5,No,Normal,9500,No
+179,Female,22,Middle class,Single,Unmarried,Bachelor,6,3.9,No,Abnormal,18917,Yes
+180,Male,20,Middle class,Single,Unmarried,Bachelor,5,3.0,Yes,Normal,18566,No
+181,Female,23,Rich class,In a Relationship,Unmarried,Family,6,3.0,Yes,Abnormal,25500,No
+182,Male,22,Middle class,In a Relationship,Unmarried,Bachelor,2,3.55,Yes,Good,12947,No
+183,Male,20,Lower Middle class,Single,Married,Bachelor,5,3.56,No,Normal,3900,No
+184,Male,21,Lower Middle class,Single,Unmarried,Family,5,3.78,Yes,Normal,8500,No
+185,Female,22,Rich class,In a Relationship,Unmarried,Family,8,3.58,Yes,Normal,5500,No
+186,Male,24,Middle class,In a Relationship,Unmarried,Family,4,3.3,Yes,Good,14348,No
+187,Female,20,Middle class,Single,Unmarried,Bachelor,9,3.75,Yes,Normal,15746,No
+188,Female,22,Rich class,In a Relationship,Unmarried,Family,3,3.6,Yes,Abnormal,8000,No
+189,Female,20,Middle class,In a Relationship,Unmarried,Bachelor,2,3.0,Yes,Good,16702,No
+190,Male,20,Middle class,Single,Unmarried,Bachelor,5,3.9,Yes,Normal,11774,No
+191,Male,21,Middle class,Complicated,Unmarried,Family,3,3.7,Yes,Good,17556,No
+192,Male,22,Middle class,Single,Unmarried,Bachelor,4,3.59,No,Abnormal,19411,Yes
+193,Female,20,Middle class,Single,Unmarried,Bachelor,3,3.7,Yes,Good,12684,No
+194,Male,23,Lower Middle class,Single,Unmarried,Bachelor,7,3.45,Yes,Good,5500,No
+195,Male,24,Middle class,In a Relationship,Unmarried,Bachelor,9,3.31,Yes,Good,10180,No
+196,Female,22,Middle class,Single,Unmarried,Bachelor,5,3.45,Yes,Abnormal,15673,Yes
+197,Male,22,Middle class,Complicated,Unmarried,Family,2,3.55,Yes,Good,12199,No
+198,Female,24,Rich class,In a Relationship,Married,Family,4,3.47,Yes,Abnormal,23300,No
+199,Female,23,Lower Middle class,In a Relationship,Married,Family,7,3.75,Yes,Good,4366,No
+200,Female,24,Lower Middle class,Single,Unmarried,Bachelor,5,3.86,Yes,Normal,9658,No
+201,Male,20,Middle class,Single,Unmarried,Bachelor,6,3.25,No,Normal,13752,Yes
+202,Male,21,Middle class,In a Relationship,Unmarried,Bachelor,5,3.5,No,Abnormal,17342,No
+203,Male,21,Middle class,Single,Unmarried,Bachelor,7,3.58,Yes,Normal,13071,No
+204,Female,23,Lower Middle class,In a Relationship,Unmarried,Bachelor,7,3.39,No,Abnormal,7706,No
+205,Male,21,Middle class,In a Relationship,Unmarried,Bachelor,4,3.0,Yes,Good,12865,No
+206,Male,22,Middle class,In a Relationship,Unmarried,Bachelor,8,2.5,Yes,Abnormal,15645,No
+207,Female,22,Rich class,Single,Married,Bachelor,2,3.78,Yes,Critical,22534,Yes
+208,Female,23,Middle class,Single,Unmarried,Family,9,3.87,Yes,Normal,9100,No
+209,Male,22,Middle class,Single,Unmarried,Bachelor,4,3.58,Yes,Abnormal,18927,Yes
+210,Female,20,Rich class,Single,Unmarried,Bachelor,6,3.45,Yes,Normal,25000,No
+211,Male,20,Rich class,Single,Unmarried,Bachelor,5,3.58,Yes,Good,29628,No
+212,Male,23,Middle class,In a Relationship,Unmarried,Bachelor,3,3.6,Yes,Normal,15276,No
+213,Female,20,Lower Middle class,Single,Unmarried,Family,2,3.58,No,Good,7101,No
+214,Male,20,Lower Middle class,Single,Unmarried,Bachelor,8,3.89,Yes,Good,9900,No
+215,Female,21,Rich class,In a Relationship,Unmarried,Family,2,3.88,Yes,Normal,21755,No
+216,Female,22,Rich class,In a Relationship,Unmarried,Family,3,2.5,Yes,Normal,7493,No
+217,Male,20,Middle class,Single,Unmarried,Bachelor,5,3.89,Yes,Abnormal,15919,Yes
+218,Female,21,Middle class,In a Relationship,Unmarried,Bachelor,8,3.8,Yes,Good,11269,No
+219,Female,23,Middle class,In a Relationship,Unmarried,Family,3,3.58,No,Good,14505,No
+220,Male,20,Middle class,Single,Unmarried,Bachelor,5,3.76,Yes,Critical,11945,Yes
+221,Female,21,Rich class,In a Relationship,Unmarried,Family,6,2.9,No,Normal,28956,No
+222,Male,22,Middle class,Single,Unmarried,Bachelor,8,3.68,Yes,Normal,10408,No
+223,Female,22,Middle class,Single,Unmarried,Family,4,3.7,Yes,Critical,13442,Yes
+224,Female,23,Middle class,In a Relationship,Unmarried,Bachelor,9,3.63,Yes,Good,15057,No
+225,Female,21,Middle class,Single,Unmarried,Bachelor,5,3.85,No,Normal,5200,No
+226,Female,23,Middle class,Single,Married,Bachelor,4,3.67,No,Good,11239,No
+227,Female,20,Middle class,In a Relationship,Unmarried,Family,2,3.74,Yes,Normal,19476,No
+228,Male,22,Middle class,Single,Married,Bachelor,3,3.45,No,Good,11786,No
+229,Male,20,Middle class,Single,Unmarried,Bachelor,5,3.77,Yes,Abnormal,19323,Yes
+230,Male,20,Rich class,Single,Unmarried,Bachelor,5,3.59,Yes,Good,23822,No
+231,Female,22,Rich class,In a Relationship,Unmarried,Family,2,3.4,Yes,Normal,6750,No
+232,Male,20,Middle class,Single,Unmarried,Bachelor,2,3.46,No,Normal,15439,No
+233,Male,21,Middle class,Single,Unmarried,Family,3,3.2,Yes,Abnormal,13779,Yes
+234,Female,22,Middle class,In a Relationship,Unmarried,Bachelor,4,3.78,Yes,Critical,14510,Yes
+235,Female,24,Lower Middle class,Single,Unmarried,Family,8,3.58,Yes,Abnormal,5300,Yes
+236,Female,24,Lower Middle class,Complicated,Unmarried,Bachelor,8,3.4,Yes,Normal,7900,No
+237,Female,21,Rich class,Single,Unmarried,Bachelor,5,3.75,Yes,Good,32000,No
+238,Female,22,Middle class,Complicated,Unmarried,Family,7,3.78,No,Normal,13000,No
+239,Female,23,Rich class,In a Relationship,Unmarried,Family,7,3.58,No,Good,6200,No
+240,Male,19,Middle class,Single,Unmarried,Bachelor,5,2.98,Yes,Normal,17584,No
+241,Female,22,Rich class,In a Relationship,Unmarried,Family,9,3.82,Yes,Good,5500,No
+242,Male,20,Middle class,Single,Unmarried,Bachelor,5,3.86,Yes,Abnormal,12260,Yes
+243,Male,20,Middle class,Single,Unmarried,Bachelor,5,3.14,Yes,Normal,10383,No
+244,Female,22,Middle class,In a Relationship,Unmarried,Bachelor,6,3.5,Yes,Critical,13222,Yes
+245,Female,23,Rich class,Single,Unmarried,Bachelor,7,3.37,Yes,Normal,6100,No
+246,Female,21,Middle class,Single,Unmarried,Family,6,3.65,Yes,Normal,10000,No
+247,Male,23,Middle class,Single,Unmarried,Bachelor,0,3.89,Yes,Normal,16700,No
+248,Male,22,Middle class,In a Relationship,Unmarried,Bachelor,4,3.78,Yes,Good,15974,No
+249,Male,21,Lower Middle class,Single,Unmarried,Bachelor,8,3.23,Yes,Normal,5400,No
+250,Female,21,Middle class,Single,Unmarried,Bachelor,5,3.67,Yes,Good,8000,No
+251,Male,20,Middle class,Single,Unmarried,Bachelor,5,3.61,Yes,Critical,19682,Yes
+252,Male,21,Lower Middle class,Single,Unmarried,Bachelor,4,3.63,Yes,Normal,9856,No
+253,Female,21,Middle class,Single,Unmarried,Family,5,3.5,Yes,Good,18000,No
+254,Female,23,Middle class,Single,Unmarried,Family,8,2.63,No,Critical,7500,Yes
+255,Male,20,Lower Middle class,In a Relationship,Married,Bachelor,7,3.0,No,Normal,8000,No
+256,Female,23,Middle class,Single,Unmarried,Family,4,3.78,No,Abnormal,15145,Yes
+257,Female,24,Middle class,Complicated,Unmarried,Bachelor,9,3.33,Yes,Normal,6100,No
+258,Female,21,Middle class,Single,Unmarried,Family,5,3.5,No,Good,18000,No
+259,Female,21,Middle class,Single,Unmarried,Family,5,3.75,No,Good,13457,No
+260,Female,24,Lower Middle class,Single,Unmarried,Family,9,2.82,Yes,Good,5800,No
+261,Male,20,Middle class,Single,Unmarried,Bachelor,3,3.9,Yes,Good,12623,No
+262,Male,24,Middle class,Single,Married,Bachelor,7,4.0,Yes,Good,16398,No
+263,Female,22,Middle class,In a Relationship,Unmarried,Bachelor,8,3.0,Yes,Good,13448,No
+264,Female,24,Lower Middle class,Single,Unmarried,Family,4,3.37,No,Good,5000,No
+265,Female,20,Rich class,In a Relationship,Married,Family,9,3.58,Yes,Critical,29658,Yes
+266,Male,20,Middle class,Single,Unmarried,Family,6,3.49,Yes,Abnormal,11432,Yes
+267,Female,20,Middle class,Single,Unmarried,Family,5,3.0,Yes,Critical,15010,Yes
+268,Female,22,Rich class,In a Relationship,Unmarried,Family,3,3.25,Yes,Normal,5500,No
+269,Female,24,Middle class,Single,Unmarried,Family,5,3.82,Yes,Critical,19681,Yes
+270,Female,23,Middle class,In a Relationship,Unmarried,Bachelor,8,3.8,No,Critical,16316,Yes
+271,Male,20,Middle class,Single,Unmarried,Bachelor,5,3.69,Yes,Critical,12171,Yes
+272,Male,24,Middle class,Single,Unmarried,Bachelor,7,4.0,No,Good,12205,No
+273,Male,20,Rich class,Single,Unmarried,Family,2,4.0,No,Normal,12141,No
+274,Male,22,Lower Middle class,Single,Unmarried,Bachelor,7,3.44,No,Good,10000,No
+275,Female,18,Lower Middle class,Single,Unmarried,Family,2,3.75,Yes,Normal,9587,No
+276,Male,20,Middle class,Single,Unmarried,Bachelor,5,3.59,Yes,Critical,11488,Yes
+277,Female,22,Middle class,In a Relationship,Unmarried,Family,8,3.96,No,Good,10000,No
+278,Male,21,Lower Middle class,Single,Unmarried,Bachelor,4,3.57,Yes,Normal,4748,No
+279,Female,24,Lower Middle class,Single,Unmarried,Family,8,3.31,No,Critical,2500,Yes
+280,Male,20,Middle class,Single,Unmarried,Bachelor,5,3.59,Yes,Critical,17427,Yes
+281,Male,20,Middle class,Single,Unmarried,Bachelor,8,3.46,No,Normal,15439,Yes
+282,Female,19,Rich class,In a Relationship,Unmarried,Bachelor,5,3.2,No,Good,25111,No
+283,Female,21,Middle class,In a Relationship,Unmarried,Bachelor,8,3.7,Yes,Normal,11043,No
+284,Male,20,Middle class,Single,Unmarried,Bachelor,5,3.66,Yes,Good,12754,No
+285,Female,21,Lower Middle class,Single,Unmarried,Family,8,3.75,Yes,Good,6558,No
+286,Female,20,Middle class,In a Relationship,Unmarried,Family,4,3.3,No,Normal,12472,No
+287,Male,23,Middle class,Single,Married,Bachelor,10,3.68,Yes,Abnormal,13520,No
+288,Female,22,Middle class,In a Relationship,Unmarried,Family,5,3.89,Yes,Abnormal,14814,No
+289,Female,23,Middle class,Single,Unmarried,Family,3,3.68,No,Abnormal,4100,Yes
+290,Female,22,Middle class,In a Relationship,Separated,Bachelor,5,3.67,Yes,Critical,18887,Yes
+291,Female,22,Rich class,In a Relationship,Unmarried,Family,10,2.63,Yes,Good,5500,No
+292,Male,23,Middle class,Single,Unmarried,Bachelor,6,3.91,No,Abnormal,15621,Yes
+293,Male,22,Lower Middle class,Single,Unmarried,Bachelor,5,2.9,Yes,Critical,6318,Yes
+294,Male,24,Middle class,Complicated,Unmarried,Bachelor,8,3.75,Yes,Normal,12289,No
+295,Female,23,Rich class,Single,Married,Bachelor,4,3.75,Yes,Good,24879,No
+296,Male,22,Middle class,Single,Unmarried,Bachelor,5,3.55,No,Good,15802,No
+297,Male,19,Middle class,Single,Unmarried,Bachelor,1,3.0,No,Normal,14506,No
+298,Male,20,Middle class,Single,Unmarried,Bachelor,5,3.75,Yes,Abnormal,19780,Yes
+299,Male,20,Lower Middle class,Single,Unmarried,Bachelor,4,3.0,Yes,Normal,5800,No
+300,Female,22,Lower Middle class,In a Relationship,Separated,Family,7,3.6,Yes,Abnormal,9000,No

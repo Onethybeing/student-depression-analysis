@@ -1,0 +1,6 @@
+Student_ID,Gender,Age,Family_background,Relationship_status,Marital_status,Living_style,Current_semester,CGPA,friend_circle,Health_condition,Cost_without_study,Depression
+1,Female,23,Middle class,Single,Unmarried,Family,4,2.92,No,Good,7400,No
+2,Male,20,Lower Middle class,Single,Unmarried,Bachelor,5,3.1,Yes,Normal,5896,No
+3,Male,20,Middle class,Single,Unmarried,Bachelor,5,3.59,Yes,Abnormal,14815,Yes
+4,Male,23,Middle class,In a Relationship,Unmarried,Family,2,3.0,Yes,Normal,19681,No
+5,Male,22,Middle class,In a Relationship,Unmarried,Family,3,3.0,Yes,Normal,15750,No

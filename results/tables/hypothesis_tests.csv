@@ -1,0 +1,9 @@
+Hypothesis,Statement,Variable,Expected sign,Logit coefficient,AME,P>|z|,Result
+H1,Students with higher CGPA are less likely to be depressed (academic stress).,CGPA,-,-0.0885,-0.0146,0.8366,Not supported (not significant)
+H2,Students with a friend circle are less likely to be depressed (social support).,Has friend circle,-,0.1859,0.0304,0.576,Not supported (not significant)
+H3,Single students are more likely to be depressed than students in a relationship.,Single,+,2.5285,0.3643,0.0,Supported
+H4a,Students from lower-middle class families are more likely to be depressed than middle class.,Lower-middle class,+,-0.7071,-0.1118,0.1283,Not supported (not significant)
+H4b,Students from rich families are less likely to be depressed than middle class.,Rich class,-,-1.2038,-0.1716,0.0413,Supported
+H5,Higher monthly living cost is associated with higher depression (financial pressure).,Monthly cost ('000),+,0.0699,0.0115,0.0502,Weakly supported (10% level)
+H6,Students living with family are less likely to be depressed than those living as bachelors.,Lives with family,-,-0.2743,-0.0448,0.4617,Not supported (not significant)
+H7,Female students are more likely to be depressed than male students.,Male,-,-0.6574,-0.107,0.0583,Weakly supported (10% level)

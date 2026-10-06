@@ -1,0 +1,5 @@
+Variable,Mean (not depressed),Mean (depressed),Difference,Welch t,t-test p-value,Mann-Whitney U,Mann-Whitney p-value
+CGPA,3.4751,3.5134,0.0383,0.8653,0.3881,10211.5,0.2311
+Monthly cost ('000),12.9605,14.4338,1.4732,1.8476,0.0665,10726.5,0.0515
+Age (years),21.6777,21.6742,-0.0036,-0.0195,0.9844,9312.0,0.9087
+Current semester,5.2559,5.0449,-0.211,-0.8003,0.4245,9060.5,0.628
