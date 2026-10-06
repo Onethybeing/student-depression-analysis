@@ -35,6 +35,7 @@ COST = "Monthly cost ('000)"
 CRAMER = "Cramer's V"
 TITLE = "Determinants of Depression among University Students: An Econometric Analysis using Logit and Probit Models"
 BODY_FONT = "Cambria"
+AUTHORS = ["Atharv Lodhi", "Sourav Choudhary", "Piyush Bisht"]
 
 # ----------------------------------------------------------------------------- helpers to read results
 
@@ -125,7 +126,7 @@ def setup_styles():
     pf.line_spacing = 1.3
     pf.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
 
-    for name, size, before, after in [("Heading 1", 22, 0, 24), ("Heading 2", 15, 18, 8), ("Heading 3", 12.5, 12, 6)]:
+    for name, size, before, after in [("Heading 1", 20, 24, 14), ("Heading 2", 15, 18, 8), ("Heading 3", 12.5, 12, 6)]:
         st = styles[name]
         st.font.name = BODY_FONT
         st.font.size = Pt(size)
@@ -376,16 +377,18 @@ set_page_numbering(sec0, "lowerRoman", 1)
 footer_page_number(sec0)
 
 # ----------------------------------------------------------------------------- title page
-para("", space_after=40)
-para(TITLE, bold=True, align=WD_ALIGN_PARAGRAPH.CENTER, size=20, space_after=36)
+para("", space_after=30)
+para(TITLE, bold=True, align=WD_ALIGN_PARAGRAPH.CENTER, size=20, space_after=30)
 para("Report submitted to", align=WD_ALIGN_PARAGRAPH.CENTER, size=13, space_after=4)
 para("Dr. Prantik Bagchi", bold=True, align=WD_ALIGN_PARAGRAPH.CENTER, size=14, space_after=2)
 para("Department of Humanities and Social Sciences", align=WD_ALIGN_PARAGRAPH.CENTER, size=12, space_after=2)
-para("Indian Institute of Technology Kharagpur", align=WD_ALIGN_PARAGRAPH.CENTER, size=12, space_after=36)
-para("Submitted by", align=WD_ALIGN_PARAGRAPH.CENTER, size=13, space_after=6)
-for i in range(1, 7):
-    para(f"[Team member {i} name] ([Roll number])", align=WD_ALIGN_PARAGRAPH.CENTER, size=12, space_after=2)
-para("", space_after=40)
+para("Indian Institute of Technology Kharagpur", align=WD_ALIGN_PARAGRAPH.CENTER, size=12, space_after=30)
+para("Submitted by", bold=True, align=WD_ALIGN_PARAGRAPH.CENTER, size=13, space_after=6)
+for name in AUTHORS:
+    para(name, align=WD_ALIGN_PARAGRAPH.CENTER, size=12, space_after=2)
+logo = para("", align=WD_ALIGN_PARAGRAPH.CENTER, space_after=30)
+logo.paragraph_format.space_before = Pt(36)
+logo.add_run().add_picture(str(ROOT / "assets" / "iitkgp_logo.png"), width=Cm(4.6))
 para("Department of Humanities and Social Sciences", align=WD_ALIGN_PARAGRAPH.CENTER, size=12, space_after=2)
 para("Indian Institute of Technology Kharagpur", align=WD_ALIGN_PARAGRAPH.CENTER, size=12, space_after=2)
 para("Kharagpur, West Bengal 721302", align=WD_ALIGN_PARAGRAPH.CENTER, size=12, space_after=2)
@@ -552,7 +555,7 @@ para(
 )
 
 # ============================================================================= Chapter 2
-page_break()
+# (no page break: chapters run on continuously)
 chapter("Literature Review")
 section("Introduction to the Theoretical Framework")
 para(
@@ -639,7 +642,7 @@ para(
 )
 
 # ============================================================================= Chapter 3
-page_break()
+# (no page break: chapters run on continuously)
 chapter("Research Methodology")
 section("Data Overview")
 para(
@@ -762,7 +765,7 @@ para(
 )
 
 # ============================================================================= Chapter 4
-page_break()
+# (no page break: chapters run on continuously)
 chapter("Empirical Results")
 section("Introduction")
 para(
@@ -1099,7 +1102,7 @@ bullets([
 ])
 
 # ============================================================================= Chapter 5
-page_break()
+# (no page break: chapters run on continuously)
 chapter("Findings, Conclusion, and Recommendations")
 section("Introduction")
 para(
@@ -1221,7 +1224,7 @@ para(
 )
 
 # ============================================================================= Appendix
-page_break()
+# (no page break: chapters run on continuously)
 chapter("Appendix", numbered_chapter=False)
 para(
     "This appendix reports the full estimation output produced by the analysis notebook "
@@ -1255,7 +1258,7 @@ sp.columns = [f"{b}: {a}" for a, b in sp.columns]
 table(sp.reset_index(), "Marginal effects for male and female students (LPM, robust SE)", font_size=8.5, decimals=4)
 
 # ============================================================================= References
-page_break()
+# (no page break: chapters run on continuously)
 chapter("References", numbered_chapter=False)
 REFS = [
     "Beck, A. T. (1967). Depression: Clinical, experimental, and theoretical aspects. New York: Harper & Row.",
@@ -1298,7 +1301,7 @@ for ref in REFS:
     p.alignment = WD_ALIGN_PARAGRAPH.LEFT
 
 doc.core_properties.title = TITLE
-doc.core_properties.author = ""
+doc.core_properties.author = ", ".join(AUTHORS)
 doc.core_properties.last_modified_by = ""
 doc.core_properties.comments = ""
 OUT.parent.mkdir(exist_ok=True)

@@ -4,7 +4,7 @@ Dep. Variable:             depression   No. Observations:                  300
 Model:                          Logit   Df Residuals:                      288
 Method:                           MLE   Df Model:                           11
 Date:                Tue, 06 Oct 2026   Pseudo R-squ.:                  0.1907
-Time:                        16:23:10   Log-Likelihood:                -147.62
+Time:                        16:44:01   Log-Likelihood:                -147.62
 converged:                       True   LL-Null:                       -182.40
 Covariance Type:                  HC1   LLR p-value:                 1.474e-10
 =================================================================================

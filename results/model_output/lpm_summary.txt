@@ -4,7 +4,7 @@ Dep. Variable:             depression   R-squared:                       0.192
 Model:                            OLS   Adj. R-squared:                  0.161
 Method:                 Least Squares   F-statistic:                     9.377
 Date:                Tue, 06 Oct 2026   Prob (F-statistic):           2.09e-14
-Time:                        16:23:10   Log-Likelihood:                -158.73
+Time:                        16:44:01   Log-Likelihood:                -158.73
 No. Observations:                 300   AIC:                             341.5
 Df Residuals:                     288   BIC:                             385.9
 Df Model:                          11                                         

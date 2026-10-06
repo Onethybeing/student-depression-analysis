@@ -3,10 +3,14 @@
 An econometric analysis of what is associated with depression among 300 university students
 (aged 18–24), using **binary logit and probit models with marginal effects**.
 
+**Team:** Atharv Lodhi, Sourav Choudhary, Piyush Bisht. Department of Humanities and Social Sciences, IIT Kharagpur.
+
 | Deliverable | File |
 |---|---|
-| Research report (PDF) | [report/Student_Depression_Report.pdf](report/Student_Depression_Report.pdf) |
-| Research report (Word) | [report/Student_Depression_Report.docx](report/Student_Depression_Report.docx) |
+| Research paper, IEEE two-column (PDF / Word) | [PDF](report/Student_Depression_Research_Paper.pdf) · [DOCX](report/Student_Depression_Research_Paper.docx) |
+| Full report, single column (PDF / Word) | [PDF](report/Student_Depression_Report.pdf) · [DOCX](report/Student_Depression_Report.docx) |
+| Presentation (10 slides, native charts) | [report/Student_Depression_Presentation.pptx](report/Student_Depression_Presentation.pptx) |
+| Google Form (survey instrument) | [forms/](forms/) (Apps Script that creates the form and its response sheet) |
 | Python notebook (executed, with all outputs) | [notebooks/student_depression_analysis.ipynb](notebooks/student_depression_analysis.ipynb) |
 | Stata do-file | [stata/student_depression_analysis.do](stata/student_depression_analysis.do) |
 | Excel workbook with every result table and chart | [results/Student_Depression_Analysis_Results.xlsx](results/Student_Depression_Analysis_Results.xlsx) |
@@ -54,10 +58,14 @@ results/
   model_output/       full model summaries (used in the report appendix)
   results.json        key scalar results used in the report text
   Student_Depression_Analysis_Results.xlsx
-report/               research report (DOCX + PDF)
+report/               research paper, full report (DOCX + PDF) and presentation (PPTX)
+forms/                Google Apps Script that creates the survey form
+assets/               IIT Kharagpur logo used on the cover pages
 scripts/
-  build_report.py     builds the DOCX from results/ (no hand-typed numbers)
-  export_pdf.py       refreshes the table of contents in MS Word and exports the PDF
+  build_paper.py      IEEE-style two-column paper from results/ (no hand-typed numbers)
+  build_report.py     single-column full report from results/
+  export_pdf.py       refreshes contents pages in MS Word and exports both PDFs
+  export_slide_data.py + build_slides.js   10-slide deck with native charts
 ```
 
 ## Reproduce
@@ -65,8 +73,11 @@ scripts/
 ```bash
 pip install -r requirements.txt
 jupyter nbconvert --to notebook --execute --inplace notebooks/student_depression_analysis.ipynb
+python scripts/build_paper.py
 python scripts/build_report.py
 python scripts/export_pdf.py          # Windows + Microsoft Word
+python scripts/export_slide_data.py
+npm install pptxgenjs && node scripts/build_slides.js
 ```
 
 Stata (run from the repository root): `do stata/student_depression_analysis.do`.

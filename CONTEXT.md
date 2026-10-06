@@ -9,9 +9,14 @@ with depression among university students and deliver
 1. an executed Python notebook (source of every number),
 2. a Stata do-file replicating it,
 3. an Excel workbook with all results,
-4. a research report (DOCX + PDF) in the course's report format (title page, abstract, TOC,
-   5 chapters, appendix, references) with charts and tables,
-5. all of it in a public GitHub repo.
+4. two write-ups from the same results: an IEEE-style two-column research paper and a single-column
+   full report (both DOCX + PDF, cover page in the course format with the IIT KGP logo, continuous
+   flow with no blank page after each chapter),
+5. a 10-slide presentation with native charts,
+6. a Google Form (Apps Script) matching the dataset's variables,
+7. all of it in a public GitHub repo.
+
+Team: Atharv Lodhi, Sourav Choudhary, Piyush Bisht. Submitted to Dr. Prantik Bagchi (HSS, IIT Kharagpur).
 
 ## Hard rules
 - **Never mention the city/region or the country** of the data anywhere in the repo, report, notebook,
@@ -51,13 +56,18 @@ with depression among university students and deliver
 1. (private) `python private/make_sample.py` → `data/student_sample_300.*`
 2. `jupyter nbconvert --to notebook --execute --inplace notebooks/student_depression_analysis.ipynb`
    → `results/` (figures, tables, model_output, results.json, Excel)
-3. `python scripts/build_report.py` → `report/Student_Depression_Report.docx`
-4. `python scripts/export_pdf.py` (Windows + Word) → refreshes TOC, writes the PDF
+3. `python scripts/build_paper.py` → `report/Student_Depression_Research_Paper.docx` (IEEE two-column)
+   `python scripts/build_report.py` → `report/Student_Depression_Report.docx` (single column)
+4. `python scripts/export_pdf.py` (Windows + Word) → refreshes contents pages, writes both PDFs
+5. `python scripts/export_slide_data.py` then `node scripts/build_slides.js` (needs `pptxgenjs`)
+   → `report/Student_Depression_Presentation.pptx`
+6. `forms/create_google_form.gs` is run by the owner in script.google.com; it creates the form in their account.
 
 ## Status (2026-10-06)
 - All deliverables built and checked. Stata is not installed on the build machine, so the do-file has not
   been executed; it mirrors the notebook command by command.
-- Title page has placeholders for team member names and roll numbers — the owner will fill them in.
+- Cover pages carry the team names (no roll numbers were provided). The logo was taken from the course's example report.
+- The Google Form has not been created yet: the owner runs the Apps Script themselves (no Google access from the build machine).
 - Data source/provenance link not yet provided by the owner.
 
 ## Maintaining this file
