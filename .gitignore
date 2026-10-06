@@ -16,3 +16,6 @@ __pycache__/
 # Full source data and the private sampling script stay local only
 dataset/
 private/
+
+# Node packages for the slide builder
+node_modules/

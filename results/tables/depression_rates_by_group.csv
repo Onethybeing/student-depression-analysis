@@ -1,0 +1,20 @@
+Characteristic,Group,Students,Depressed,Depression rate (%)
+Gender,Female,156,43,27.6
+Gender,Male,144,46,31.9
+Family background,Lower Middle class,57,11,19.3
+Family background,Middle class,193,69,35.8
+Family background,Rich class,50,9,18.0
+Relationship status,Single,192,81,42.2
+Relationship status,In a Relationship,97,8,8.2
+Relationship status,Complicated,11,0,0.0
+Marital status,Unmarried,255,80,31.4
+Marital status,Married,39,8,20.5
+Marital status,Separated,6,1,16.7
+Living style,Bachelor,184,62,33.7
+Living style,Family,116,27,23.3
+Friend circle,No,87,25,28.7
+Friend circle,Yes,213,64,30.0
+Health condition,Good,86,0,0.0
+Health condition,Normal,102,3,2.9
+Health condition,Abnormal,64,38,59.4
+Health condition,Critical,48,48,100.0

@@ -1,0 +1,12 @@
+Variable,VIF,Tolerance (1/VIF)
+Male,1.41,0.709
+Age (years),1.127,0.887
+CGPA,1.077,0.929
+Current semester,1.11,0.901
+Monthly cost ('000),1.614,0.62
+Lower-middle class,1.378,0.726
+Rich class,1.371,0.729
+Single,1.176,0.85
+Ever married,1.053,0.95
+Lives with family,1.405,0.712
+Has friend circle,1.076,0.929

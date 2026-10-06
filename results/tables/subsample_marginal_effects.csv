@@ -1,0 +1,21 @@
+Sample,Variable,dy/dx,P>|z|,Observations,Depressed
+Male students,Age (years),-0.004,0.891,144,46
+Male students,CGPA,0.0966,0.4319,144,46
+Male students,Current semester,0.005,0.8011,144,46
+Male students,Monthly cost ('000),0.0041,0.7096,144,46
+Male students,Lower-middle class,-0.2336,0.0396,144,46
+Male students,Rich class,-0.3216,0.0435,144,46
+Male students,Single,0.3902,0.0,144,46
+Male students,Ever married,-0.2512,0.0068,144,46
+Male students,Lives with family,0.0276,0.7607,144,46
+Male students,Has friend circle,-0.0045,0.9576,144,46
+Female students,Age (years),0.0453,0.1271,156,43
+Female students,CGPA,-0.1085,0.2579,156,43
+Female students,Current semester,-0.0133,0.3827,156,43
+Female students,Monthly cost ('000),0.0103,0.0581,156,43
+Female students,Lower-middle class,-0.0134,0.8927,156,43
+Female students,Rich class,-0.1006,0.1917,156,43
+Female students,Single,0.3199,0.0,156,43
+Female students,Ever married,-0.0485,0.6799,156,43
+Female students,Lives with family,-0.0276,0.7065,156,43
+Female students,Has friend circle,0.0126,0.866,156,43
